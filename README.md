@@ -21,7 +21,7 @@ By hosting our privacy policy in a public repository, we demonstrate our commitm
 
 To access the privacy policy for our mobile app, follow these steps:
 
-1. Visit the Privacy Policy Repository on GitHub https://fefesg5.github.io/nourish-static/
+1. Visit the Privacy Policy Repository at https://fefesg5.github.io/nourish-static/
 2. Review the privacy policy to understand how your personal information is handled within our app.
 
 ## Contribution
